@@ -1,0 +1,1 @@
+const LOGO_BASE64 = "...";
